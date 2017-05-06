@@ -4,3 +4,4 @@ This is a basic landing page used for businesses with filler information on the 
 
 You can git clone this repo or click below to see yourself:
 
+https://mylandingpage.surge.sh/
